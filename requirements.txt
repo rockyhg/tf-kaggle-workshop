@@ -1,0 +1,13 @@
+ipykernel
+ipywidgets
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+kaggle
+lightgbm
+xgboost
+catboost
