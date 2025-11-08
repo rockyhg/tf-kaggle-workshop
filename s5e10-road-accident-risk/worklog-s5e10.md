@@ -26,7 +26,7 @@ https://www.kaggle.com/competitions/playground-series-s5e10/overview
 ### ベースライン作成
 - ノートブック: `exp02-baseline.ipynb`
 - モデル: LightGBM 回帰モデル
-- 特徴量エンジニアリング: なし (数値型そのまま、カテゴリカル型はLabel Encoding)
+- 数値型のみ投入
 - ハイパーパラメータ: デフォルト + num_leaves=16 に変更
 - 結果
   - CV: 0.10602 / LB: 0.10599
